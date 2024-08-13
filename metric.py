@@ -1,10 +1,10 @@
 import os
 import numpy as np
-from utils.Evaluator import Evaluator
+from util.Evaluator import Evaluator
 import matplotlib.pyplot as plt
 import torch
 import torch.nn as nn
-from utils.img_read_save import img_save,image_read_cv2
+from util.img_read_save import img_save,image_read_cv2
 import time
 import warnings
 import logging
