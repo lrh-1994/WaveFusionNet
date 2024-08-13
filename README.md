@@ -1,7 +1,7 @@
 # WaveFusionNet
 Infrared and visible image fusion
 
-******2024/7/10********
+******2024/8/10********
 This is a official code for WaveFusionNet, which is proposed for infrared and visible image fsuion, 
 
 demostrating good performance  in both visual perception and quantitative assessment.
