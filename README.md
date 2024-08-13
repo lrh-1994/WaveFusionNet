@@ -40,7 +40,11 @@ The input and reuslts are organized as follows:
 *************************************************************
 Testing:
 
-You can test the perfoemance of fused images by implementing metirc.py:
+First, researchers can generate fused images for three test dtasets by implementing test_demo.py:
+
+python test_demo.py
+
+Then, you can test the perfoemance of fused images by implementing metric.py:
 
 python metric.py
 
