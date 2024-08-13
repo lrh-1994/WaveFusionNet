@@ -10,7 +10,7 @@ The required environment and packages are listed in the requirements.txt.
 
 The paper for WaveFusionNet is uder-review and will be available according to the policy of the journal.
 
-Complete code and detailed results will be released soon after being accepted by the journal. 
+Checkpoint model and complete testing code have been provided in this site, and more details and anlysis will be released soon after being accepted by the journal. 
 ************************
 We provide three benchmark datasets: MSRS, RoadScene, TNO for performance assessment, 
 source image pairs and fused images are contained in .\test_data and .\results directory, respectively.
