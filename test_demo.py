@@ -34,8 +34,8 @@ def run_demo(model_fusion , ir_path, vi_path, output_path, name_ir, flag_img):
 	
 	img_out = torch.zeros(1,1,img_vi.size(2),img_vi.size(3)).cuda()
 	
-	tensor1=torch.zeros(1,1,img_vi.size(2),img_vi.size(3)).cuda()+1
-	tensor0=torch.zeros(1,1,img_vi.size(2),img_vi.size(3)).cuda()
+	tensor1 = torch.zeros(1,1,img_vi.size(2),img_vi.size(3)).cuda()+1
+	tensor0 = torch.zeros(1,1,img_vi.size(2),img_vi.size(3)).cuda()
 	
 	f64_h=torch.rand((1,32,3,64,64),requires_grad=False).cuda()
 	f32_h=torch.rand((1,32,3,32,32),requires_grad=False).cuda()
