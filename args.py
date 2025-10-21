@@ -2,7 +2,7 @@
 class args():
 
 	# training args
-	epochs = 15 #"number of training epochs, default is 2"
+	epochs = 15 #"number of training epoch, default is 2"
 	batch_size =8 #"batch size for training, default is 4"
 
 	#dataset_vis = '/media/mprl/06509c1a-c4d9-4e3e-9285-6da7c8d359b0/home/mprl/lrh/train_vis_128_2/'
