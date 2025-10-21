@@ -40,7 +40,7 @@ The input and reuslts are organized as follows:
 *************************************************************
 Testing:
 
-First, researchers can generate fused images for three test dtasets by implementing test_demo.py:
+First, researchers can generate fused images for three test datasets by implementing test_demo.py:
 
 python test_demo.py
 
